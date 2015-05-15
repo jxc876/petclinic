@@ -1,18 +1,30 @@
 # Pet Clinic Application
 
-Sample application to test various features
+Sample application with two domain classes:
 
-# Instructions
+* Person & Pet
 
-Test data is available under the data folder:
+# Test Data
+
+This project contains a H2 database which has been populated with sample data.
+
+The test data is also available under the data folder:
 
 * PERSON.sql
 * PET.sql
 
-There is h2 database which has been populated.
+# Generate Your Project
+
+`grails integrate-with --eclipse`
+
 
 # Run The application
 
-grails run-app
+`grails run-app`
 
 
+# Useful Links
+
+* <http://localhost:8080/petclinic> - Main Page
+* <http://localhost:8080/petclinic/dbconsole> - Database Console
+* <http://localhost:8080/petclinic/console> - Groovy Console
