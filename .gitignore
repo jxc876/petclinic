@@ -1,0 +1,13 @@
+# Java / Groovy
+*.class
+
+# Eclipse
+.settings
+.classpath
+.eclipse
+.project
+target-eclipse/
+target/
+
+# H2
+*.trace.db
