@@ -10,7 +10,6 @@ Test data is available under the data folder:
 * PET.sql
 
 There is h2 database which has been populated.
-Copy this file to your home directory: ~/h2
 
 # Run The application
 
