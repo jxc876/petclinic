@@ -11,3 +11,4 @@ target/
 
 # H2
 *.trace.db
+*.lock.db
